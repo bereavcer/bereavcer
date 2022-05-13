@@ -1,10 +1,7 @@
 - 👋 Hi, I’m @bereavcer
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in ... design 
+- 🌱 I’m currently learning ... planimetry and interior design
+- 💞️ I’m looking to collaborate on ... any app that let me create new things
+- 📫 How to reach me ... cinthia.avalos3387@alumnos.udg.mx
 
-<!---
-bereavcer/bereavcer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+bereavcer/bereavcer is a ✨ special ✨ repository because its appears on your GitHub profile.
